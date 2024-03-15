@@ -1,0 +1,28 @@
+#main_logo{
+    width: 100px;
+    margin-left: 15px;
+    margin-right: 50px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 97%;
+    margin-top: 100px;
+}
+
+.card-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#myapps_gif {
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 575px;
+  
+    width: auto; /* Automatically adjust width */
+    max-height: 2in; /* Set maximum height */
+    overflow: hidden; /* Hide overflow */
+}
